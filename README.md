@@ -25,6 +25,7 @@ Online Editors for Programming Languages
 ## JavasSript
 
 * [CodeSandbox](https://codesandbox.io/) - CodeSandbox is an online editor that helps you create web applications, from prototype to deployment.
+* [JSFiddle](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
 
 ## PHP
 
@@ -39,5 +40,5 @@ Online Editors for Programming Languages
 Online Editors for Database
 
 * [MySQL Live](http://mysqltutorial.org/tryit/) - Practice basic MySQL using the live MySQL editor online.
-* [Paiza.IO](https://paiza.io/en/projects/new?language=mysql) -  is online editor and compiler. Java, Ruby, Python, PHP, Perl, Swift, JavaScript...
+* [Paiza.IO](https://paiza.io/en/projects/new?language=mysql) -  MySQL Online is online editor and compiler.
 * [SQL Fiddle](http://sqlfiddle.com/) - Application for testing and sharing SQL queries.
