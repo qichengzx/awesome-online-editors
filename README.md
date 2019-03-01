@@ -8,6 +8,7 @@ A curated list of awesome online editors.
     - [Go](#go)
     - [JavasSript](#javascript)
     - [PHP](#php)
+    - [Python](#python)
     - [.NET](#net)
 
 - [Database](#database)
@@ -31,6 +32,11 @@ Online Editors for Programming Languages
 
 * [PHP Sandbox](http://sandbox.onlinephpfunctions.com/) - PHP Sandbox. Run, execute and test PHP code from your browser.
 * [WriteCodeOnline](http://www.writephponline.com/) - write and run php code online
+
+## Python
+
+* [Repl.it](https://repl.it/languages/python3) - Online Python Editor and IDE - Fast, Powerful, Free.
+
 ## .NET
 
 * [.NET Fiddle](https://dotnetfiddle.net/) - Test your C# code online with .NET Fiddle code editor.
