@@ -9,6 +9,7 @@ A curated list of awesome online editors.
     - [JavasSript](#javascript)
     - [PHP](#php)
     - [Python](#python)
+    - [Rust](#rust)
     - [.NET](#net)
 
 - [Database](#database)
@@ -37,6 +38,10 @@ Online Editors for Programming Languages
 
 * [OnlineGDB](https://www.onlinegdb.com/online_python_compiler) - OnlineGDB is online IDE with python compiler. Quick and easy way to compile python program online. It supports python3.
 * [Repl.it](https://repl.it/languages/python3) - Online Python Editor and IDE - Fast, Powerful, Free.
+
+## Rust
+
+* [Rust Playground](https://play.rust-lang.org/) - The Rust Playground is a web service that runs rust online.
 
 ## .NET
 
