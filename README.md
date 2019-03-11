@@ -16,6 +16,7 @@ A curated list of awesome online editors.
 
 - [Database](#database)
     - [MySQL](#mysql)
+    - [Oracle](#oracle)
 
 # Programming Language
 
@@ -63,6 +64,13 @@ Online Editors for Programming Languages
 
 Online Editors for Database
 
+## MySQL
+
 * [MySQL Live](http://mysqltutorial.org/tryit/) - Practice basic MySQL using the live MySQL editor online.
 * [Paiza.IO](https://paiza.io/en/projects/new?language=mysql) -  MySQL Online is online editor and compiler.
 * [SQL Fiddle](http://sqlfiddle.com/) - Application for testing and sharing SQL queries.
+* [SQL Test](https://sqltest.net/) - Free online SQL Test tool for easy SQL query learning and testing.
+
+## Oracle 
+
+* [SQL Test](https://sqltest.net/) - Free online SQL Test tool for easy SQL query learning and testing.
