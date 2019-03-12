@@ -17,6 +17,9 @@ A curated list of awesome online editors.
 - [Database](#database)
     - [MySQL](#mysql)
     - [Oracle](#oracle)
+    - [PostgreSQL](postgresql)
+    - [SQLite](sqlite)
+    - [SQL Server](sqlserver)
 
 # Programming Language
 
@@ -73,4 +76,17 @@ Online Editors for Database
 
 ## Oracle 
 
+* [SQL Fiddle](http://sqlfiddle.com/) - Application for testing and sharing SQL queries.
 * [SQL Test](https://sqltest.net/) - Free online SQL Test tool for easy SQL query learning and testing.
+
+## PostgreSQL
+
+* [SQL Fiddle](http://sqlfiddle.com/) - Application for testing and sharing SQL queries.
+
+## SQLite
+
+* [SQL Fiddle](http://sqlfiddle.com/) - Application for testing and sharing SQL queries.
+
+## SQL Server
+
+* [SQL Fiddle](http://sqlfiddle.com/) - Application for testing and sharing SQL queries.
