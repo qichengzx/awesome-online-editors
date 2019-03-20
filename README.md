@@ -19,6 +19,7 @@ A curated list of awesome online editors.
     - [MySQL](#mysql)
     - [Oracle](#oracle)
     - [PostgreSQL](postgresql)
+    - [Redis](#redis)
     - [SQLite](sqlite)
     - [SQL Server](sqlserver)
 
@@ -89,6 +90,10 @@ Online Editors for Database
 ## PostgreSQL
 
 * [SQL Fiddle](http://sqlfiddle.com/) - Application for testing and sharing SQL queries.
+
+## Redis
+
+* [Try Redis](https://try.redis.io/) - Run redis online.
 
 ## SQLite
 
