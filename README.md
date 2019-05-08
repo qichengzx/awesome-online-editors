@@ -39,7 +39,6 @@ Online Editors for Programming Languages
 ## Go
 
 * [Official Go Playground](https://play.golang.org) - The Go Playground is a web service that runs on golang.org's servers.
-* [Go Playground](http://play.flysnow.org) - The Go Playground is a web service that runs on golang.org's servers.
 * [Compiler Explorer](https://godbolt.org/) - Compiler Explorer is an interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.
 
 ## Java
