@@ -97,6 +97,7 @@ Online Editors for Database
 
 ## PostgreSQL
 
+* [DB Fiddle](https://www.db-fiddle.com/) - An online SQL database playground for testing, debugging and sharing SQL snippets.
 * [SQL Fiddle](http://sqlfiddle.com/) - Application for testing and sharing SQL queries.
 
 ## Redis
@@ -105,6 +106,7 @@ Online Editors for Database
 
 ## SQLite
 
+* [DB Fiddle](https://www.db-fiddle.com/) - An online SQL database playground for testing, debugging and sharing SQL snippets.
 * [SQL Fiddle](http://sqlfiddle.com/) - Application for testing and sharing SQL queries.
 
 ## SQL Server
