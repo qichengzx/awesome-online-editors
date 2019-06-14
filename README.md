@@ -84,6 +84,7 @@ Online Editors for Database
 
 ## MySQL
 
+* [DB Fiddle](https://www.db-fiddle.com/) - An online SQL database playground for testing, debugging and sharing SQL snippets.
 * [MySQL Live](http://mysqltutorial.org/tryit/) - Practice basic MySQL using the live MySQL editor online.
 * [Paiza.IO](https://paiza.io/en/projects/new?language=mysql) -  MySQL Online is online editor and compiler.
 * [SQL Fiddle](http://sqlfiddle.com/) - Application for testing and sharing SQL queries.
