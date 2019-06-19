@@ -21,8 +21,8 @@ A curated list of awesome online editors.
     - [Oracle](#oracle)
     - [PostgreSQL](postgresql)
     - [Redis](#redis)
-    - [SQLite](sqlite)
-    - [SQL Server](sqlserver)
+    - [SQLite](#sqlite)
+    - [SQL Server](#sqlserver)
 
 # Programming Language
 
