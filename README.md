@@ -56,6 +56,7 @@ Online Editors for Programming Languages
 
 ## Lua
 
+* [Lua: demo](https://www.lua.org/cgi-bin/demo) - Run lua online.
 * [TIO](https://tio.run/#lua) - TIO is a family of online interpreters for an evergrowing list of practical and recreational programming languages.
 
 ## PHP
