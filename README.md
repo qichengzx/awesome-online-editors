@@ -17,6 +17,7 @@ A curated list of awesome online editors.
     - [.NET](#net)
 
 - [Database](#database)
+    - [ClickHouse](clickhouse)
     - [MongoDB](mongodb)
     - [MySQL](#mysql)
     - [Oracle](#oracle)
@@ -82,6 +83,10 @@ Online Editors for Programming Languages
 # Database
 
 Online Editors for Database
+
+## ClickHouse
+
+* [ClickHouse Playground](https://play.clickhouse.tech/) - ClickHouse Playground
 
 ## MongoDB
 
