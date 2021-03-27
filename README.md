@@ -95,6 +95,7 @@ Online Editors for Database
 
 * [JDoodle](https://www.jdoodle.com/online-mongodb-terminal) - Easy and Quick way to compile and run mongoDB Online.
 * [Mplay](https://www.mplay.run/mongodb-online-terminal) - Mplay.run is a free mongodb online terminal for testing MongoDB commands.
+* [Mongo Playground](https://mongoplayground.net/) - a simple sandbox to test and share MongoDB queries online
 
 ## MySQL
 
