@@ -68,6 +68,7 @@ Online Editors for Programming Languages
 * [PHP Sandbox](http://sandbox.onlinephpfunctions.com/) - PHP Sandbox. Run, execute and test PHP code from your browser.
 * [WriteCodeOnline](http://www.writephponline.com/) - write and run php code online
 * [Online PHP Function Tester](http://php.fnlist.com/) - Test PHP functions online. There are available more then 200 PHP functions you can test online!
+* [JDoodle](https://www.jdoodle.com/php-online-editor/) - JDoodle - free Online  Compiler, Editor for Java, C/C++, etc
 
 ## Python
 
