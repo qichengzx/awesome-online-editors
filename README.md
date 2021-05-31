@@ -85,6 +85,7 @@ Online Editors for Programming Languages
 
 * [Rust Playground](https://play.rust-lang.org/) - The Rust Playground is a web service that runs rust online.
 * [Compiler Explorer](https://godbolt.org/) - Compiler Explorer is an interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.
+* [jdoodle](https://www.jdoodle.com/execute-rust-online/) - Online RUST Compiler IDE
 
 ## .NET
 
