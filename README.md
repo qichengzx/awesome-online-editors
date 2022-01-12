@@ -113,6 +113,7 @@ Online Editors for Database
 * [Paiza.IO](https://paiza.io/en/projects/new?language=mysql) -  MySQL Online is online editor and compiler.
 * [SQL Fiddle](http://sqlfiddle.com/) - Application for testing and sharing SQL queries.
 * [SQL Test](https://sqltest.net/) - Free online SQL Test tool for easy SQL query learning and testing.
+* [SQL playground](https://sql-playground.wizardzines.com/) - SQL playground
 
 ## Oracle 
 
