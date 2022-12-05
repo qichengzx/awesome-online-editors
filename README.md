@@ -75,6 +75,7 @@ Online Editors for Programming Languages
 * [WriteCodeOnline](http://www.writephponline.com/) - write and run php code online
 * [Online PHP Function Tester](http://php.fnlist.com/) - Test PHP functions online. There are available more then 200 PHP functions you can test online!
 * [JDoodle](https://www.jdoodle.com/php-online-editor/) - JDoodle - free Online  Compiler, Editor for Java, C/C++, etc
+* [PHPize.online](https://phpize.online) - Online PHP & SQL sandbox https://phpize.online allow to run SQL queries and PHP code in same window
 
 ## Python
 
@@ -114,6 +115,7 @@ Online Editors for Database
 * [SQL Fiddle](http://sqlfiddle.com/) - Application for testing and sharing SQL queries.
 * [SQL Test](https://sqltest.net/) - Free online SQL Test tool for easy SQL query learning and testing.
 * [SQL playground](https://sql-playground.wizardzines.com/) - SQL playground
+* [SQLize.online](https://sqlize.online) - format run and share SQL queries online
 
 ## Oracle 
 
