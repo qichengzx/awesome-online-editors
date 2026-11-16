@@ -34,10 +34,12 @@ Online Editors for Programming Languages
 ## C
 
 * [Compiler Explorer](https://godbolt.org/) - Compiler Explorer is an interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.
+* [OnlineCompiler.io](https://onlinecompiler.io/c-online-compiler) - Run C (GCC 15) online with standard input, share links and test cases; also a REST API.
 
 ## C++
 
 * [Compiler Explorer](https://godbolt.org/) - Compiler Explorer is an interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.
+* [OnlineCompiler.io](https://onlinecompiler.io/cpp-online-compiler) - Run C++17 or C++20 (GCC 15) online with standard input, share links and test cases; also a REST API.
 
 ## Deno
 
@@ -57,6 +59,7 @@ Online Editors for Programming Languages
 * [CompileJava.Net](https://www.compilejava.net/) - Simple, fast and secure Online Java IDE / Compiler.
 * [JDoodle](https://www.jdoodle.com/online-java-compiler) - Easy and Quick way to compile and run Java Online.
 * [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) - OnlineGDB is online IDE with java compiler. Quick and easy way to run java program online.
+* [OnlineCompiler.io](https://onlinecompiler.io/java-online-compiler) - Run Java online with standard input, share links and test cases; also a REST API.
 
 ## JavasSript
 
@@ -85,6 +88,7 @@ Online Editors for Programming Languages
 * [Repl.it](https://repl.it/languages/python3) - Online Python Editor and IDE - Fast, Powerful, Free.
 * [ReqBin](https://reqbin.com/code/python) - Run Python Code Online
 * [Online Python](https://www.online-python.com/) - Build and Run your Python code instantly.
+* [OnlineCompiler.io](https://onlinecompiler.io/python-online-compiler) - Run Python 3.14 online with NumPy and pandas installed, share links and test cases; also a REST API.
 
 ## Rust
 
